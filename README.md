@@ -29,7 +29,8 @@ Para sorte de nos todos a tecnologia evolucionou , hoje temos o poderoso css 3 e
   <li>Postgres</>
   <li>NodeJs</li>
   <li>Adonisjs</>
-  <li>WebSocket</li>  
+  <li>WebSocket</li>
+  <li>Nextjs</li>
 </ul>
 
 <img src="https://mediia4.giphy.com/media/Pm4HpXI62FxF4jfM60/giphy_s.gif" heigh="150" width="150">
