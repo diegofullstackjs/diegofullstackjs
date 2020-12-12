@@ -2,16 +2,10 @@
 <div style="display:flex justify-content:right; align-items: center;">
 <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" style="flex: 1; width:100%; ">
 </div>
-Sou dev aproximadamente com 10 anos projetando interfaces de usuário úteis e
-acessíveis. Sempre em busca das melhores práticas de design em constante aprendizado de
-experiência do usuário.
-Comecei bem na era que para posicionar um elemento na tela era aquela luta, que é da antiga sabe
-float: left ou float:right clear:booth
 
 Sempre em desenvolvimento profissional e busco sempre me atualizar com as
 tecnologias.
 
-Para sorte de nos todos a tecnologia evolucionou , hoje temos o poderoso css 3 e html 5 Baum neh?
 
 ## 😄 Skills :arrow_down:
 
