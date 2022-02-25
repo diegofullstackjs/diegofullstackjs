@@ -23,8 +23,11 @@ tecnologias.
   <li>Postgres</>
   <li>NodeJs</li>
   <li>Adonisjs</>
+  <li>Nestjs</li>
   <li>WebSocket</li>
   <li>Nextjs</li>
+  <li>Prisma</li>
+  <li>Microserviços</li>
 </ul>
 
 <img src="https://mediia4.giphy.com/media/Pm4HpXI62FxF4jfM60/giphy_s.gif" heigh="150" width="150">
