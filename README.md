@@ -1,6 +1,6 @@
 ### Olá seja bem vindo 👋
 <div style="display:flex justify-content:right; align-items: center;">
-<img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" style="flex: 1; width:100%; ">
+<img src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy-downsized.gif" style="flex: 1; width:100%; ">
 </div>
 
 Sempre em desenvolvimento profissional e busco sempre me atualizar com as
